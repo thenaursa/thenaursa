@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm thenaursa 👋
 
-<!--
-**thenaursa/thenaursa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior DeFi Engineer with 5+ years of experience building production-grade
+**ve(3,3) DEX ecosystems** and supporting infrastructure.
 
-Here are some ideas to get you started:
+I specialize in designing and implementing **core protocol logic, SDKs, indexing pipelines,
+and dApp interfaces** used by real users and liquidity providers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 DeFi Protocol Expertise
+- ve(3,3) DEX design (gauges, bribes, emissions, voting)
+- AMMs & concentrated liquidity
+- Tokenomics & incentive alignment
+- Liquidity mining & fee distribution
+
+---
+
+## 🏗️ What I Build
+- **Core DEX Interfaces** (React / Next.js)
+- **SDKs & Client Libraries** (TypeScript)
+- **Subgraphs & Indexers** (The Graph, NodeReal)
+- **Backend Services** (Node.js, PostgreSQL)
+- **Web3 Integrations** (EVM compatible chains)
+
+---
+
+## 🧩 Tech Stack
+Node.js · PostgreSQL · Next.js · Wagmi · Viem · Solidity · The Graph
+
+---
+
+## 🔍 Focus Areas
+- Protocol-grade reliability
+- On-chain ↔ off-chain data consistency
+- Performance and scalability
+- Clean architecture & long-term maintainability
+
+---
+
+## 📫 Contact
+- GitHub: https://github.com/thenaursa
