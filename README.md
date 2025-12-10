@@ -1,4 +1,4 @@
-# Hi, I'm thenaursa 👋
+# Hi, I'm Hyperion 👋
 
 Senior DeFi Engineer with 5+ years of experience building production-grade
 **ve(3,3) DEX ecosystems** and supporting infrastructure.
